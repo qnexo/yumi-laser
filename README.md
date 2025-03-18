@@ -1,10 +1,9 @@
 # YIMI laser LA-4/3/2
 
-<center>
-
-# Yumi-Laser
-
-</center>
+<div align="center">
+# YIMI laser LA-4/3/2
+![Yumi Laser Logo](images/yumi-laser.png)
+</div>
 
 
 
