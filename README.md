@@ -80,8 +80,7 @@ Le logiciel principal pour gérer la gravure et la découpe laser.
 
 ## 📩 Support & Contribution  
 💬 **Une question ?** Ouvre une **[Issue](https://github.com/qnexo/yumi-laser/issues)**.  
-🚀 **Envie d'améliorer ce projet ?** Fais une **Pull Request** !  
-📧 **Contact :** yumi-laser-support@email.com  
+🚀 **Envie d'améliorer ce projet ?** Fais une **Pull Request** !   
 
 ---
 
