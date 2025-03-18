@@ -1,9 +1,7 @@
-#<div align="center">YIMI laser LA-4/3/2</div>
-
 <div align="center">
-# YIMI laser LA-4/3/2
-![Yumi Laser Logo](images/yumi-laser.png)
+<h1>YIMI laser LA-4/3/2</h1>
 </div>
+
 
 
 
