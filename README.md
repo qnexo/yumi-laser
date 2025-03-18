@@ -1,10 +1,4 @@
 # YIMI laser LA-4/3/2
-Voici un exemple de description pour ta page d’accueil GitHub concernant le laser de la marque Yumi. Ce fichier README.md servira d’introduction à ton projet :
-
-
----
-
-Yumi-Laser
 
 Bienvenue sur le dépôt Yumi-Laser !
 Ce projet regroupe toutes les informations, guides et ressources nécessaires pour utiliser efficacement le laser de la marque Yumi.
