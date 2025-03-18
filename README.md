@@ -42,6 +42,3 @@ Si vous avez des questions ou rencontrez des problèmes, n’hésitez pas à ouv
 
 
 ---
-
-Si tu veux adapter certains éléments, dis-moi ce que tu souhaites mettre en avant !
-
