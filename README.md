@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/yumi-laser.png" width="700">
+    <img src="images/yumi-laser.png" width="500">
 </div>
 
 <div align="center">
