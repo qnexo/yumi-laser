@@ -1,4 +1,4 @@
-# yumi-laser
+# YIMI laser LA-4/3/2
 Voici un exemple de description pour ta page d’accueil GitHub concernant le laser de la marque Yumi. Ce fichier README.md servira d’introduction à ton projet :
 
 
