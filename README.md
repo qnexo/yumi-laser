@@ -1,4 +1,8 @@
 <div align="center">
+<h1>YIMI laser LA-4/3/2</h1>
+</div>
+<div align="center">
+    <h1>YIMI laser LA-4/3/2</h1>
     <img src="images/yumi-laser.png" width="500">
 </div>
 
