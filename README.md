@@ -1,92 +1,47 @@
 <div align="center">
 
-# 🔥 YUMI LASER 🔥  
-Un projet pour découvrir et maîtriser l'utilisation du graveur laser **Yumi L-A2/3/4**.
+# Yumi Laser - Documentation Complète
 
 <img src="images/yumi-laser.png" width="400">
 
 </div>
-
----
-
-## 📌 À propos  
-<div align="center">
-    
-Bienvenue sur le projet **Yumi Laser** !   
-Ce dépôt regroupe toutes les **informations essentielles** sur l'utilisation du **graveur laser Yumi**, en mettant l'accent sur :  
+<div align="center"> 
+Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveurs Yumi Laser L-A2, L-A3, et L-A4.  
+Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
 
 </div>
 
-✅ La **sécurité** lors de l'utilisation du laser (classe 4, risques oculaires et incendie).  
-✅ Le **matériel** utilisé (DLC32, composants, câblage, alimentation).  
-✅ Le **logiciel** principal (**LightBurn**) et son paramétrage.  
-✅ Des **guides détaillés** pour débuter avec le laser et réaliser des projets.  
+## 🛠️ Installation et Montage
 
----
+- [Guide de montage Yumi Laser (modèles A4/A3)](Montage%20et%20c%C3%A2blage/yumi-laser-l-a4-a3-montage.pdf)
+- [Manuel de câblage de la carte MKS DLC32](Montage%20et%20c%C3%A2blage/DLC32-wiring-manual.pdf)
 
-## 🚀 Fonctionnalités  
-🔹 **Installation et configuration** du laser et du firmware.  
-🔹 **Paramétrage et connexion** avec **LightBurn** et **LaserGRBL**.  
-🔹 **Guides de sécurité** et bonnes pratiques.  
-🔹 **Exemples de gravures et de découpes** avec des fichiers prêts à l'emploi.  
+## 🚀 Firmware
 
----
+- [Instructions pour mettre à jour le firmware DLC32](Firmware/DLC32-Firmware-Programming-Instructions.pdf)
+- [Instructions firmware DLC32 (version chinoise)](Firmware/DLC32烧录说明V1.0.pdf)
+- [Télécharger les firmware sur GitHub Makerbase](https://github.com/makerbase-mks/MKS-DLC32)
 
-## ⚙️ Matériel utilisé  
-Le graveur laser **Yumi L-A2/3/4** repose sur l’électronique **DLC32**, qui offre :  
-✔ Une **connexion WiFi** et un contrôle via un navigateur web.  
-✔ Une **interface avec écran tactile** (selon modèle).  
-✔ Une **compatibilité avec LightBurn et LaserGRBL**.  
+## 📶 Configuration WiFi
 
-💡 **Documentation matérielle disponible :**  
-- [📖 Manuel de câblage DLC32](docs/DLC32-wiring-manual.pdf)  
-- [📖 Instructions de programmation firmware](docs/DLC32-Firmware-Programming-Instructions.pdf)  
+- [Guide complet pour configurer le WiFi sur MKS DLC32](Documentation%20WiFi/Configuration_WiFi_MKS_DLC32_Guide_Complet.pdf)
 
----
+## 📐 Logiciel LightBurn
 
-## 💻 Logiciel utilisé  
-### 🔹 **LightBurn**  
-Le logiciel principal pour gérer la gravure et la découpe laser.  
-- [📥 Télécharger LightBurn](https://lightburnsoftware.com/pages/download-trial)  
-- [📖 Manuel LightBurn](docs/LightBurn-Guide.pdf)  
+- [Manuel utilisateur de LightBurn en français](Logiciel%20LightBurn/Manuel-LightBurn-FR-V02.pdf)
+- [Autres versions du manuel LightBurn](Logiciel%20LightBurn/)
+- [Site officiel de LightBurn](https://lightburnsoftware.com/)
 
-### 🔹 **LaserGRBL** *(alternative gratuite)*  
-- [📥 Télécharger LaserGRBL](https://lasergrbl.com/)  
+## ⚠️ Consignes de sécurité
 
----
+**Important** : Le graveur laser Yumi utilise un laser de Classe 4, potentiellement dangereux. Prenez le temps de lire attentivement toutes les consignes de sécurité :
 
-## 🛠️ Installation & Configuration  
-1️⃣ **Installation du logiciel** :  
-   - Téléchargez et installez **[LightBurn](https://lightburnsoftware.com/pages/download-trial)** ou **LaserGRBL**.  
-   - Connectez votre laser via USB ou WiFi.  
+- [Consignes de sécurité Yumi Laser](Sécurité/Safety-Guidelines.pdf)
+- [Équipement de protection recommandé](https://www.apinex.com/det/lunettes-protection-laser.html)
 
-2️⃣ **Configuration du laser** :  
-   - Paramétrez la machine dans LightBurn (`Find My Laser`).  
-   - Vérifiez la mise à jour du firmware DLC32 ([Guide ici](docs/DLC32-Firmware.pdf)).  
+## 🛎️ Assistance et support
 
-3️⃣ **Sécurité avant tout** ⚠️  
-   - **Utilisation obligatoire** de **lunettes de protection adaptées**.  
-   - **Ventilation et évacuation des fumées** lors de la gravure.  
-   - **Ne jamais laisser le laser sans surveillance**.  
+Pour toute question, n'hésitez pas à ouvrir une issue dans l'onglet « Issues » de ce dépôt ou à consulter le wiki :  
+📚 [Wiki Yumi Laser](https://wiki.yumi-lab.com/)
 
----
-
-## 📚 Documentation  
-📖 **[Guide d'installation](docs/Installation-Guide.pdf)**  
-📖 **[Manuel d'utilisation de LightBurn](docs/LightBurn-Guide.pdf)**  
-📖 **[Sécurité & Bonnes pratiques](docs/Safety-Guidelines.pdf)**  
-
----
-
-## 📩 Support & Contribution  
-💬 **Une question ?** Ouvre une **[Issue](https://github.com/qnexo/yumi-laser/issues)**.  
-🚀 **Envie d'améliorer ce projet ?** Fais une **Pull Request** !   
-
----
-
-<div align="center">
-
-💡 *"Gravez vos idées avec précision et créativité !"*  
-  
-
-</div>
+Bonne gravure ! 🚀✨
