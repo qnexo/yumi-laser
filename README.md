@@ -40,7 +40,7 @@ Le graveur laser **Yumi L-A2/3/4** repose sur l’électronique **DLC32**, qui o
 
 💡 **Documentation matérielle disponible :**  
 - [📖 Manuel de câblage DLC32](docs/DLC32-wiring-manual.pdf)  
-- [📖 Instructions de programmation firmware](docs/DLC32-Firmware.pdf)  
+- [📖 Instructions de programmation firmware](docs/DLC32-Firmware-Programming-Instructions.pdf)  
 
 ---
 
