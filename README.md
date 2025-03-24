@@ -1,55 +1,52 @@
-# YUMI LASER - L-A4 / L-A3 / L-A2
-Projet communautaire de documentation, de configuration et d'amélioration du laser YUMI basé sur la carte MKS DLC32.
+<div align="center">
 
-![YUMI Laser](images/yumi-laser.png)
+# Yumi Laser - Documentation Complète
 
-## 🎯 Objectif
-Fournir un dépôt centralisé de toutes les ressources utiles (PDF, images, schémas, réglages, sécurité, etc.) autour des machines laser YUMI et de la carte MKS DLC32.
+<img src="images/yumi-laser.png" width="400">
 
-## 🔧 Contenu
-- 🛠 **Montage** : guide illustré pour L-A4 et L-A3
-- ⚙ **Paramètres GRBL** : configs pour DLC32
-- 📚 **Manuels** : LightBurn, WiFi, firmware, sécurité
-- 🧠 **Docs techniques** : fin de course, câblages, firmware
-- 📸 **Images utiles** : schémas de câblage, modules, logos
+</div>
+<div align="center"> 
+Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveurs Yumi Laser L-A2, L-A3, et L-A4.  
+Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
 
-## 📁 Arborescence rapide
+</div>
 
-| Dossier | Contenu |
-|--------|---------|
-| `docs/` | Tous les documents PDF utiles |
-| `images/` | Illustrations, schémas, logos |
-| `config/` | Fichiers GRBL, réglages usine |
-| `ressources/` | Liens, fichiers externes (ex: LightBurn.url) |
-| `stl/` *(optionnel)* | Pièces imprimables 3D |
+## 🛠️ Installation et Montage
 
-## 🚨 Sécurité
-Un laser classe 4 est extrêmement dangereux. Merci de consulter le document [`docs/Safety-Guidelines.pdf`](docs/Safety-Guidelines.pdf) avant toute utilisation.
+- [Guide de montage Yumi Laser (modèles A4/A3/A2)](docs/yumi-laser-l-a4-a3-montage.pdf)
+- [Manuel de câblage de la carte MKS DLC32](docs/DLC32-wiring-manual.pdf)
 
-## 📡 WiFi / Réseau
-Voir [`docs/Configuration_WiFi3.pdf`](docs/Configuration_WiFi3.pdf) pour connecter votre carte DLC32 à LightBurn en réseau local.
+## 🚀 Firmware
 
-## 🧪 Paramètres GRBL
+- [Instructions pour mettre à jour le firmware DLC32](docs/DLC32-Firmware-Programming-Instructions.pdf)
+- [Instructions firmware DLC32 (version chinoise)](docs/DLC32烧录说明V1.0.pdf)
+- [Télécharger les firmware sur GitHub Makerbase](https://github.com/makerbase-mks/MKS-DLC32)
 
-```bash
-$130=285.000 ; Taille axe X (mm)
-$131=272.000 ; Taille axe Y
-$30=1000     ; Puissance laser max (PWM)
-$32=1        ; Mode laser
-<<<<<<< HEAD
-```
+## 📶 Configuration WiFi
 
-> Voir [`config/bkg_cfg.txt`](config/bkg_cfg.txt) pour la config complète.
+- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi_MKS_DLC32_Guide_Complet.pdf)
 
-## 💬 Communauté
-Rejoignez [le Discord WANHAO France](https://discord.gg/wanhao-france-886729543908458506) pour de l’aide et partager vos réalisations !
+## 📐 Logiciel LightBurn
 
-## 👥 Crédits
-Projet maintenu par la communauté.  
-Cartes MKS par Makerbase.  
-Laser YUMI distribué par [wanhao-europe.com](https://wanhao-europe.com)
+- [Manuel utilisateur de LightBurn en français](docs/Manuel-LightBurn-FR-V02.pdf)
+- [Autres versions du manuel LightBurn](docs/)
+- [Site officiel de LightBurn](https://lightburnsoftware.com/)
+
+## ⚠️ Consignes de sécurité
+
+**Important** : Le graveur laser Yumi utilise un laser de Classe 4, potentiellement dangereux. Prenez le temps de lire attentivement toutes les consignes de sécurité :
+
+- [Consignes de sécurité Yumi Laser](docs/Safety-Guidelines.pdf)
+- [Équipement de protection recommandé](https://www.apinex.com/det/lunettes-protection-laser.html)
+
+## 🛎️ Assistance et support
+
+Pour toute question, n'hésitez pas à ouvrir une issue dans l'onglet « Issues » de ce dépôt ou à consulter le wiki :  
+📚 [Wiki Yumi Laser](https://wiki.yumi-lab.com/)
+
+Bonne gravure ! 🚀✨
 
 ## 📜 Licence
-Ce projet est sous licence **GPLv3**. Voir le fichier `LICENSE` pour plus d’informations.
-=======
->>>>>>> 76d917cece30404d4d4f25d527d054b64d084c2c
+
+Ce projet est distribué sous la licence **GPLv3**.  
+Voir [`LICENSE`](LICENSE) pour plus d'infos.
