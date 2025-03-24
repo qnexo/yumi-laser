@@ -36,6 +36,7 @@ $130=285.000 ; Taille axe X (mm)
 $131=272.000 ; Taille axe Y
 $30=1000     ; Puissance laser max (PWM)
 $32=1        ; Mode laser
+<<<<<<< HEAD
 ```
 
 > Voir [`config/bkg_cfg.txt`](config/bkg_cfg.txt) pour la config complète.
@@ -50,3 +51,5 @@ Laser YUMI distribué par [wanhao-europe.com](https://wanhao-europe.com)
 
 ## 📜 Licence
 Ce projet est sous licence **GPLv3**. Voir le fichier `LICENSE` pour plus d’informations.
+=======
+>>>>>>> 76d917cece30404d4d4f25d527d054b64d084c2c
