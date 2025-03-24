@@ -2,6 +2,16 @@
 
 # Yumi Laser - Documentation Complète
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![LightBurn](https://img.shields.io/badge/LightBurn-compatible-orange)](https://lightburnsoftware.com)
+[![Board](https://img.shields.io/badge/Board-MKS--DLC32-lightgrey)](https://github.com/makerbase-mks/MKS-DLC32)
+[![Laser](https://img.shields.io/badge/Laser-Class_4-critical)](docs/Safety-Guidelines.pdf)
+[![Discord](https://img.shields.io/badge/Discord-Wanhao_France-7289DA?logo=discord&logoColor=white)](https://discord.gg/wanhao-france-886729543908458506)
+[![Documentation](https://img.shields.io/badge/docs-disponibles-blue)](docs/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacter-25D366?logo=whatsapp&logoColor=white)](https://wa.me/33612345678)
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/qnexo/yumi-laser)
+
+
 <img src="images/yumi-laser.png" width="400">
 
 </div>
@@ -10,6 +20,17 @@ Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveu
 Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
 
 </div>
+
+## 📚 Sommaire
+- [🛠️ Installation et Montage](#️installation-et-montage)
+- [🚀 Firmware](#firmware)
+- [📶 Configuration WiFi](#configuration-wifi)
+- [📐 Logiciel LightBurn](#logiciel-lightburn)
+- [⚠️ Consignes de sécurité](#consignes-de-sécurité)
+- [🛎️ Assistance et support](#assistance-et-support)
+- [📜 Licence](#licence)
+
+
 
 ## 🛠️ Installation et Montage
 
@@ -24,7 +45,7 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 
 ## 📶 Configuration WiFi
 
-- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi_MKS_DLC32_Guide_Complet.pdf)
+- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi3.pdf)
 
 ## 📐 Logiciel LightBurn
 
@@ -39,7 +60,18 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 - [Consignes de sécurité Yumi Laser](docs/Safety-Guidelines.pdf)
 - [Équipement de protection recommandé](https://www.apinex.com/det/lunettes-protection-laser.html)
 
-## 🛎️ Assistance et support
+## 🤝 Crédits
+
+Ce dépôt est maintenu par la communauté Yumi Laser.  
+Cartes MKS par [Makerbase](https://github.com/makerbase-mks).  
+Laser distribué en France par [WANHAO Europe](https://wanhao-europe.com).
+
+Merci aux contributeurs qui enrichissent ce projet 🙏
+
+## 🤝 Communauté & Support
+
+Rejoignez la communauté sur [Discord WANHAO France](https://discord.gg/wanhao-france-886729543908458506)  
+Retrouvez-nous sur [YouTube](https://www.youtube.com/@WANHAOFRANCE) – [Twitch](http://twitch.tv/wanhaofrance) – [TikTok](https://www.tiktok.com/@wanhaofrance)
 
 Pour toute question, n'hésitez pas à ouvrir une issue dans l'onglet « Issues » de ce dépôt ou à consulter le wiki :  
 📚 [Wiki Yumi Laser](https://wiki.yumi-lab.com/)
@@ -50,3 +82,13 @@ Bonne gravure ! 🚀✨
 
 Ce projet est distribué sous la licence **GPLv3**.  
 Voir [`LICENSE`](LICENSE) pour plus d'infos.
+
+<details>
+<summary>📋 Paramètres GRBL recommandés</summary>
+
+```bash
+$130=285 ; Axe X (mm)
+$131=272 ; Axe Y (mm)
+$30=1000 ; Puissance PWM max
+$32=1    ; Mode laser activé
+
