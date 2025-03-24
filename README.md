@@ -2,6 +2,10 @@
 
 # Yumi Laser - Documentation Complète
 
+[![Licence GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Wanhao_France-7289DA?logo=discord&logoColor=white)](https://discord.gg/wanhao-france-886729543908458506)
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/qnexo/yumi-laser)
+
 <img src="images/yumi-laser.png" width="400">
 
 </div>
@@ -10,11 +14,6 @@ Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveu
 Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
 
 </div>
-
-![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)
-![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
-![Support](https://img.shields.io/badge/support-discord-blue)
-
 
 ## 📚 Sommaire
 - [🛠️ Installation et Montage](#️installation-et-montage)
