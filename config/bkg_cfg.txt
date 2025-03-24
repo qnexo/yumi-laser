@@ -1,0 +1,72 @@
+﻿/***************************************************************************/
+DLC_TEST=0        // ✅ Mode d'utilisation normal (0), pas le mode test (1) → OK
+
+$0=10             // ✅ Délai d'inactivité avant désactivation moteur (ms) → OK
+$1=5              // ✅ Temps de maintien moteur avant désactivation → OK
+$2=0              // ✅ Inversion direction des axes (bitmask) → OK
+$3=0              // ⚠️ Sens des axes à valider selon ta machine (bitmask pour homing)
+$4=0              // ✅ Contrôle pas/inversion (généralement 0 pour drivers standards)
+$5=1              // ✅ Inversion du signal de fin de course X → OK *à vérifier selon branchement*
+$6=0              // ✅ Inversion du signal de sonde → OK si sonde pas utilisée
+
+$10=1             // ✅ Rapports de position → Machine pos uniquement (évite les conflits)
+$11=0.010         // ✅ Précision du planage (mm) → Très bien
+$12=0.002         // ✅ Précision d'arc → Très précis
+$13=0             // ✅ Unité mm (0 = millimètres, 1 = pouces) → OK
+
+$20=0             // ✅ Limite logicielle désactivée → OK si pas de capteurs à toutes extrémités
+$21=0             // ⚠️ Fins de course désactivées → à mettre à 1 si tu veux activer les capteurs
+$22=0             // ⚠️ Homing désactivé → à activer si tu as des capteurs et veux du homing
+$23=1             // ✅ Direction du homing → voir tableau binaire ($23=1 = X inversé, Y normal)
+
+$24=300.000       // ✅ Vitesse lente du homing (mm/min) → OK
+$25=1000.000      // ✅ Vitesse rapide du homing (mm/min) → OK
+$26=250.000       // ✅ Délais de rebond (debounce) capteurs → OK
+$27=1.000         // ✅ Distance de retrait après activation capteur (pull-off) → OK
+$28=1000.000      // ❓ MKS : utilisé pour certaines fonctions internes → OK
+
+$30=1000.000      // ✅ Puissance max du laser (valeur PWM max)
+$31=0.000         // ✅ Puissance min du laser (valeur PWM min)
+$32=1             // ✅ Mode laser activé (important pour découpe)
+
+$38=1             // ❓ Détection de fin de course active (GRBL-MKS) → OK si utilisé
+$37=1             // ❓ Auto retour à l’origine après tâche → OK si souhaité
+$40=1             // ❓ Gestion de mode CNC → OK si activé comme machine CNC
+
+$100=80.000       // ✅ Steps/mm pour l'axe X → OK
+$101=80.000       // ✅ Steps/mm pour l'axe Y → OK
+$102=80.000       // ✅ Steps/mm pour l'axe Z (non utilisé ici probablement) → OK
+$103=100.000
+$104=100.000
+$105=100.000        // ✅ Inutiles sauf si tu as axes supplémentaires (U,V,W) → OK
+
+$110=6000.000     // ✅ Vitesse max X (mm/min) → Parfait
+$111=6000.000     // ✅ Vitesse max Y → OK
+$112=6000.000     // ✅ Vitesse max Z → OK mais probablement inutile
+$113=1000.000
+$114=1000.000
+$115=1000.000        // ✅ Axes U, V, W (non utilisés ici, valeurs OK)
+
+$120=500.000      // ✅ Accélération X (mm/s²)
+$121=500.000      // ✅ Accélération Y
+$122=500.000      // ✅ Accélération Z (inutile ici)
+$123=200.000
+$124=200.000
+$125=200.000        // ✅ Accélérations U, V, W → OK si non utilisés
+
+$130=285.000      // ✅ Dimension X (mm)
+$131=272.000      // ✅ Dimension Y → OK
+$132=80.000       // ✅ Hauteur Z
+$133=300.000
+$134=300.000
+$135=300.000        // ✅ Pour U, V, W → OK si pas utilisés
+
+//--WIFI configuration---//
+[ESP110]STA        // ✅ Mode station activé → permet connexion à ton WiFi
+[ESP131]8080       // ✅ Port réseau par défaut → OK
+
+//wifi 2.4ghz
+[ESP100]stunt_life_3    // ✅ Nom du réseau WiFi (SSID)
+[ESP101]LilY4214        // ⚠️ Mot de passe en clair → évite de le publier publiquement
+
+/*---modify2025-03-- BY-QNEXO coco-*/
