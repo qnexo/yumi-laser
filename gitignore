@@ -1,0 +1,40 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sauvegardes
+*.bak
+*.tmp
+*.swp
+*~
+
+# Fichiers spécifiques à LightBurn
+*.lbprefs
+*.lbrn
+*.lbrn2
+*.rlf
+
+# STL et fichiers générés
+*.gcode
+*.svg
+*.nc
+*.dxf
+*.stl
+
+# Configuration utilisateur
+config.json
+settings.json
+
+# Jupyter notebooks ou Python temporaire (au cas où)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# VS Code ou IDEs
+.vscode/
+.idea/
+
+# Dossiers de build
+build/
+dist/
