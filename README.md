@@ -24,7 +24,7 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 
 ## 📶 Configuration WiFi
 
-- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi_MKS_DLC32_Guide_Complet.pdf)
+- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi3.pdf)
 
 ## 📐 Logiciel LightBurn
 
