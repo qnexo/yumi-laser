@@ -2,9 +2,15 @@
 
 # Yumi Laser - Documentation Complète
 
-[![Licence GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![LightBurn](https://img.shields.io/badge/LightBurn-compatible-orange)](https://lightburnsoftware.com)
+[![Board](https://img.shields.io/badge/Board-MKS--DLC32-lightgrey)](https://github.com/makerbase-mks/MKS-DLC32)
+[![Laser](https://img.shields.io/badge/Laser-Class_4-critical)](docs/Safety-Guidelines.pdf)
 [![Discord](https://img.shields.io/badge/Discord-Wanhao_France-7289DA?logo=discord&logoColor=white)](https://discord.gg/wanhao-france-886729543908458506)
+[![Documentation](https://img.shields.io/badge/docs-disponibles-blue)](docs/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacter-25D366?logo=whatsapp&logoColor=white)](https://wa.me/33612345678)
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/qnexo/yumi-laser)
+
 
 <img src="images/yumi-laser.png" width="400">
 
