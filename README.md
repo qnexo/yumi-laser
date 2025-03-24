@@ -2,14 +2,19 @@
 
 # Yumi Laser - Documentation Complète
 
-[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
-[![LightBurn](https://img.shields.io/badge/LightBurn-compatible-orange)](https://lightburnsoftware.com)
-[![Board](https://img.shields.io/badge/Board-MKS--DLC32-lightgrey)](https://github.com/makerbase-mks/MKS-DLC32)
-[![Laser](https://img.shields.io/badge/Laser-Class_4-critical)](docs/Safety-Guidelines.pdf)
-[![Discord](https://img.shields.io/badge/Discord-Wanhao_France-7289DA?logo=discord&logoColor=white)](https://discord.gg/wanhao-france-886729543908458506)
-[![Documentation](https://img.shields.io/badge/docs-disponibles-blue)](docs/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacter-25D366?logo=whatsapp&logoColor=white)](https://wa.me/33612345678)
+[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)&nbsp;&nbsp;
+[![LightBurn](https://img.shields.io/badge/LightBurn-compatible-orange)](https://lightburnsoftware.com)&nbsp;&nbsp;
+[![Board](https://img.shields.io/badge/Board-MKS--DLC32-lightgrey)](https://github.com/makerbase-mks/MKS-DLC32)&nbsp;&nbsp;
+[![Laser](https://img.shields.io/badge/Laser-Class_4-critical)](docs/Safety-Guidelines.pdf)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/discord/886729543908458506?label=Discord%20Wanhao&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/wanhao-france-886729543908458506)&nbsp;&nbsp;
+
+
+[![Wanhao](https://img.shields.io/badge/Wanhao-YUMILaser-blue?logo=shopify&logoColor=white)](https://wanhao-europe.com)&nbsp;&nbsp;
+[![Documentation](https://img.shields.io/badge/docs-disponibles-blue)](docs/yumi-laser-l-a4-a3-montage.pdf)&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacter-25D366?logo=whatsapp&logoColor=white)](https://wa.me/33612345678)&nbsp;&nbsp;
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/qnexo/yumi-laser)
+
+
 
 
 <img src="images/yumi-laser.png" width="400">
@@ -20,6 +25,7 @@ Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveu
 Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
 
 </div>
+
 
 ## 📚 Sommaire
 - [🛠️ Installation et Montage](#️installation-et-montage)
