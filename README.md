@@ -11,6 +11,22 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 
 </div>
 
+![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+![Support](https://img.shields.io/badge/support-discord-blue)
+
+
+## 📚 Sommaire
+- [🛠️ Installation et Montage](#️installation-et-montage)
+- [🚀 Firmware](#firmware)
+- [📶 Configuration WiFi](#configuration-wifi)
+- [📐 Logiciel LightBurn](#logiciel-lightburn)
+- [⚠️ Consignes de sécurité](#consignes-de-sécurité)
+- [🛎️ Assistance et support](#assistance-et-support)
+- [📜 Licence](#licence)
+
+
+
 ## 🛠️ Installation et Montage
 
 - [Guide de montage Yumi Laser (modèles A4/A3/A2)](docs/yumi-laser-l-a4-a3-montage.pdf)
@@ -39,7 +55,18 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 - [Consignes de sécurité Yumi Laser](docs/Safety-Guidelines.pdf)
 - [Équipement de protection recommandé](https://www.apinex.com/det/lunettes-protection-laser.html)
 
-## 🛎️ Assistance et support
+## 🤝 Crédits
+
+Ce dépôt est maintenu par la communauté Yumi Laser.  
+Cartes MKS par [Makerbase](https://github.com/makerbase-mks).  
+Laser distribué en France par [WANHAO Europe](https://wanhao-europe.com).
+
+Merci aux contributeurs qui enrichissent ce projet 🙏
+
+## 🤝 Communauté & Support
+
+Rejoignez la communauté sur [Discord WANHAO France](https://discord.gg/wanhao-france-886729543908458506)  
+Retrouvez-nous sur [YouTube](https://www.youtube.com/@WANHAOFRANCE) – [Twitch](http://twitch.tv/wanhaofrance) – [TikTok](https://www.tiktok.com/@wanhaofrance)
 
 Pour toute question, n'hésitez pas à ouvrir une issue dans l'onglet « Issues » de ce dépôt ou à consulter le wiki :  
 📚 [Wiki Yumi Laser](https://wiki.yumi-lab.com/)
@@ -50,3 +77,13 @@ Bonne gravure ! 🚀✨
 
 Ce projet est distribué sous la licence **GPLv3**.  
 Voir [`LICENSE`](LICENSE) pour plus d'infos.
+
+<details>
+<summary>📋 Paramètres GRBL recommandés</summary>
+
+```bash
+$130=285 ; Axe X (mm)
+$131=272 ; Axe Y (mm)
+$30=1000 ; Puissance PWM max
+$32=1    ; Mode laser activé
+
