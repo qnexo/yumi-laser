@@ -14,14 +14,22 @@
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/qnexo/yumi-laser)
 
 <img src="images/yumi-laser.png" width="400">
-
-</div>
-<div align="center"> 
-Bienvenue sur le dépôt GitHub dédié à la documentation complète des graveurs Yumi Laser L-A2, L-A3, et L-A4.  
-Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la configuration, la mise en route et l'utilisation en toute sécurité de votre graveur laser.
-
 </div>
 
+
+Bienvenue dans **le dépôt de référence pour modifier, améliorer et dompter le YUMI L-A**.  
+Tu veux flasher un firmware propre, ajouter des capteurs de fin de course, activer le Wi-Fi sans écran, ou même modéliser des pièces pour ta machine ? 
+
+T’es au bon endroit.
+
+---
+
+## 🚀 Objectif du projet
+
+Ce dépôt regroupe **tout le nécessaire pour transformer ton YUMI L-A2** en une machine stable, modulaire et digne de projets sérieux.  
+On parle ici de modifications concrètes testées IRL, pas de théories de forum.
+
+---
 
 ## 📚 Sommaire
 - [🛠️ Installation et Montage](#️installation-et-montage)
@@ -32,65 +40,86 @@ Ce dépôt centralise toutes les ressources nécessaires pour l'installation, la
 - [🛎️ Assistance et support](#assistance-et-support)
 - [📜 Licence](#licence)
 
+---
 
+## 🧰 Contenu du dépôt
 
-## 🛠️ Installation et Montage
+📁 firmware/ → Firmware GRBL modifié (capteurs, Wi-Fi, configs YUMI)
 
-- [Guide de montage Yumi Laser (modèles A4/A3/A2)](docs/yumi-laser-l-a4-a3-montage.pdf)
-- [Manuel de câblage de la carte MKS DLC32](docs/DLC32-wiring-manual.pdf)
+📁 hardware/ → STL/STEP, plans de montage, upgrades mécaniques
 
-## 🚀 Firmware
+📁 docs/ → Fiches techniques et manuels PDF
 
-- [Instructions pour mettre à jour le firmware DLC32](docs/DLC32-Firmware-Programming-Instructions.pdf)
-- [Instructions firmware DLC32 (version chinoise)](docs/DLC32烧录说明V1.0.pdf)
-- [Télécharger les firmware sur GitHub Makerbase](https://github.com/makerbase-mks/MKS-DLC32)
+📁 modifications/ → Étapes pas-à-pas pour les hacks (photos, branchements, etc.)
 
-## 📶 Configuration WiFi
+📁 tools/ → Scripts et utilitaires de flash/test
 
-- [Guide complet pour configurer le WiFi sur MKS DLC32](docs/Configuration_WiFi3.pdf)
+---
 
-## 📐 Logiciel LightBurn
+## 🛠️ Modifications principales
 
-- [Manuel utilisateur de LightBurn en français](docs/Manuel-LightBurn-FR-V02.pdf)
-- [Autres versions du manuel LightBurn](docs/)
-- [Site officiel de LightBurn](https://lightburnsoftware.com/)
+- ✅ Activation des **capteurs de fin de course**
+- ✅ Activation du **Wi-Fi sans écran**
+- ✅ Modification de la configuration GRBL pour laser YUMI
+- ✅ Intégration de pièces imprimables (ventilateurs, support module, etc.)
+- 🚧 [À venir] Ajout d’un relais de sécurité / arrêt d’urgence
 
-## ⚠️ Consignes de sécurité
+---
 
-**Important** : Le graveur laser Yumi utilise un laser de Classe 4, potentiellement dangereux. Prenez le temps de lire attentivement toutes les consignes de sécurité :
+## ⚙️ Installer le firmware
 
-- [Consignes de sécurité Yumi Laser](docs/Safety-Guidelines.pdf)
-- [Équipement de protection recommandé](https://www.apinex.com/det/lunettes-protection-laser.html)
+> 🔥 **Important** : Sauvegarde ton firmware d’origine si tu veux pouvoir revenir en arrière.
 
-## 🤝 Crédits
+1. Branche ton YUMI via USB
+2. Ouvre `tools/flasher.bat` *(ou utilise `avrdude` si tu préfères la ligne de commande)*
+3. Flash le fichier `.hex` adapté à ta config depuis `firmware/`
+4. Redémarre, connecte avec un terminal série (115200 baud)
+5. Tape `$$` pour vérifier les réglages
 
-Ce dépôt est maintenu par la communauté Yumi Laser.  
-Cartes MKS par [Makerbase](https://github.com/makerbase-mks).  
-Laser distribué en France par [WANHAO Europe](https://wanhao-europe.com).
+---
 
-Merci aux contributeurs qui enrichissent ce projet 🙏
+## 🔌 Branchement des capteurs (Endstops)
 
-## 🤝 Communauté & Support
+**Type** : capteur mécanique Normally Open (NO)  
+**Connexion** :
+- X min → pin D9
+- Y min → pin D10  
+(Peut varier selon le modèle de carte – voir `docs/yumi-board-pinout.pdf`)
 
-Rejoignez la communauté sur [Discord WANHAO France](https://discord.gg/wanhao-france-886729543908458506)  
-Retrouvez-nous sur [YouTube](https://www.youtube.com/@WANHAOFRANCE) – [Twitch](http://twitch.tv/wanhaofrance) – [TikTok](https://www.tiktok.com/@wanhaofrance)
+📸 *Voir photos dans `modifications/endstop-photos/`*
 
-Pour toute question, n'hésitez pas à ouvrir une issue dans l'onglet « Issues » de ce dépôt ou à consulter le wiki :  
-📚 [Wiki Yumi Laser](https://wiki.yumi-lab.com/)
+---
 
-Bonne gravure ! 🚀✨
+## 📷 Aperçus
 
-## 📜 Licence
+![YUMI Modifié](./hardware/yumi_mod_front.jpg)  
+*Vue avant avec support capteurs et module laser 10W*
 
-Ce projet est distribué sous la licence **GPLv3**.  
-Voir [`LICENSE`](LICENSE) pour plus d'infos.
+---
 
-<details>
-<summary>📋 Paramètres GRBL recommandés</summary>
+## 📬 Contact & communauté
 
-```bash
-$130=285 ; Axe X (mm)
-$131=272 ; Axe Y (mm)
-$30=1000 ; Puissance PWM max
-$32=1    ; Mode laser activé
+👉 Groupe WhatsApp : [**lien à insérer**]  
+📧 Contact : qnexo.dev@gmail.com *(ou autre mail/profil si tu préfères)*
 
+---
+
+## ❤️ Contribuer
+
+Les PR sont bienvenues. Merci de :
+- Forker ce dépôt
+- Travailler sur une branche dédiée
+- Proposer une modif claire avec explication
+
+---
+
+## 🧠 À faire (Roadmap)
+
+- [ ] Ajout d’un support écran TFT
+- [ ] Ajout d’un système d’extraction d’air imprimable
+- [ ] Création d’un profil LightBurn optimisé
+- [ ] Documentation FR/EN parallèle
+
+---
+
+**Hack the machine. Dompte la lumière. 🔥**
