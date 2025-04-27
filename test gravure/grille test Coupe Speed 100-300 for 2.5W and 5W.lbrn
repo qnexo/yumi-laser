@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.0.0" FormatVersion="0" MaterialHeight="0" MirrorX="False" MirrorY="false">
+<UIPrefs>
+<Optimize_ByLayer Value="1"/>
+<Optimize_ByGroup Value="2"/>
+<Optimize_ByPriority Value="0"/>
+<Optimize_WhichDirection Value="2"/>
+<Optimize_InnerToOuter Value="1"/>
+<Optimize_ByDirection Value="0"/>
+<Optimize_ReduceTravel Value="1"/>
+<Optimize_HideBacklash Value="0"/>
+<Optimize_ReduceDirChanges Value="1"/>
+<Optimize_ChooseCorners Value="1"/>
+<Optimize_AllowReverse Value="1"/>
+<Optimize_RemoveOverlaps Value="0"/>
+<Optimize_OptimalEntryPoint Value="0"/>
+</UIPrefs>
+<Shape Type="Rect" CutIndex="30" W="78" H="78" Cr="0">
+<XForm>1 0 0 1 39.63 39</XForm>
+</Shape>
+<Shape Type="Ellipse" CutIndex="1" CutOrder="106" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 22.63 10</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="1"/>
+<name Value="Coupe V-100-Passe1"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="1.667"/>
+<numPasses Value="1"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="2" CutOrder="107" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 34.63 10</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="2"/>
+<name Value="Coupe V-100-Passe2"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="1.667"/>
+<numPasses Value="2"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="3" CutOrder="108" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 46.63 10</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="3"/>
+<name Value="Coupe V-100-Passe3"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="1.667"/>
+<numPasses Value="3"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="4" CutOrder="109" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 58.63 10</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="4"/>
+<name Value="Coupe V-100-Passe4"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="1.667"/>
+<numPasses Value="4"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="5" CutOrder="110" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 70.63 10</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="5"/>
+<name Value="Coupe V-100-Passe5"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="1.667"/>
+<numPasses Value="5"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<CutSetting type="Scan">
+<index Value="0"/>
+<name Value="Calque écritures"/>
+<maxPower Value="50"/>
+<maxPower2 Value="20"/>
+<speed Value="25.000"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="2.5"/>
+<interval Value="0.1"/>
+<dpi Value="254"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+<Shape Type="Ellipse" CutIndex="6" CutOrder="105" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 22.63 22</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="6"/>
+<name Value="Coupe V-150-Passe1"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="2.500"/>
+<numPasses Value="1"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="7" CutOrder="106" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 34.63 22</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="7"/>
+<name Value="Coupe V-150-Passe2"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="2.500"/>
+<numPasses Value="2"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="8" CutOrder="107" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 46.63 22</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="8"/>
+<name Value="Coupe V-150-Passe3"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="2.500"/>
+<numPasses Value="3"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="9" CutOrder="108" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 58.63 22</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="9"/>
+<name Value="Coupe V-150-Passe4"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="2.500"/>
+<numPasses Value="4"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="10" CutOrder="109" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 70.63 22</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="10"/>
+<name Value="Coupe V-150-Passe5"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="2.500"/>
+<numPasses Value="5"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="11" CutOrder="104" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 22.63 34</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="11"/>
+<name Value="Coupe V-200-Passe1"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="3.333"/>
+<numPasses Value="1"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="12" CutOrder="105" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 34.63 34</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="12"/>
+<name Value="Coupe V-200-Passe2"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="3.333"/>
+<numPasses Value="2"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="13" CutOrder="106" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 46.63 34</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="13"/>
+<name Value="Coupe V-200-Passe3"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="3.333"/>
+<numPasses Value="3"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="14" CutOrder="107" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 58.63 34</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="14"/>
+<name Value="Coupe V-200-Passe4"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="3.333"/>
+<numPasses Value="4"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="15" CutOrder="108" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 70.63 34</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="15"/>
+<name Value="Coupe V-200-Passe5"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="3.333"/>
+<numPasses Value="5"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="16" CutOrder="103" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 22.63 46</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="16"/>
+<name Value="Coupe V-250-Passe1"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="4.167"/>
+<numPasses Value="1"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="17" CutOrder="104" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 34.63 46</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="17"/>
+<name Value="Coupe V-250-Passe2"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="4.167"/>
+<numPasses Value="2"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="18" CutOrder="105" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 46.63 46</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="18"/>
+<name Value="Coupe V-250-Passe3"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="4.167"/>
+<numPasses Value="3"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="19" CutOrder="106" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 58.63 46</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="19"/>
+<name Value="Coupe V-250-Passe4"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="4.167"/>
+<numPasses Value="4"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="20" CutOrder="107" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 70.63 46</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="20"/>
+<name Value="Coupe V-250-Passe5"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="4.167"/>
+<numPasses Value="5"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="21" CutOrder="102" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 22.63 58</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="21"/>
+<name Value="Coupe V-300-Passe1"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="5.000"/>
+<numPasses Value="1"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="22" CutOrder="103" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 34.63 58</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="22"/>
+<name Value="Coupe V-300-Passe2"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="5.000"/>
+<numPasses Value="2"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="23" CutOrder="104" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 46.63 58</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="23"/>
+<name Value="Coupe V-300-Passe3"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="5.000"/>
+<numPasses Value="3"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="24" CutOrder="105" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 58.63 58</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="24"/>
+<name Value="Coupe V-300-Passe4"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="5.000"/>
+<numPasses Value="4"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Ellipse" CutIndex="25" CutOrder="106" PowerScale="80" Rx="5" Ry="5">
+<XForm>1 0 0 1 70.63 58</XForm>
+</Shape>
+<CutSetting type="Cut">
+<index Value="25"/>
+<name Value="Coupe V-300-Passe5"/>
+<maxPower Value="100"/>
+<maxPower2 Value="20"/>
+<speed Value="5.000"/>
+<numPasses Value="5"/>
+<overscanPercent Value="0"/>
+<scanOpt Value="byGroup"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<angle Value="0"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>"
+<Shape Type="Text" CutIndex="0" CutOrder="1"  Font="Arial,-1,100,5,50,0,0,0,0,0" Str="100" H="3.5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 9.63 10</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="2"  Font="Arial,-1,100,5,50,0,0,0,0,0" Str="150" H="3.5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 9.63 22</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="3"  Font="Arial,-1,100,5,50,0,0,0,0,0" Str="200" H="3.5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 9.63 34</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="4"  Font="Arial,-1,100,5,50,0,0,0,0,0" Str="250" H="3.5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 9.63 46</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="5"  Font="Arial,-1,100,5,50,0,0,0,0,0" Str="300" H="3.5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 9.63 58</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="0" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Test Coupe - V:100-300 - P:80" H="3.5" LS="0" LnS="0" Ah="0" Av="1" Weld="1" HasBackupPath="1">
+<XForm>1 0 0 1 2.63 74</XForm></Shape>
+<Shape Type="Text" CutIndex="0"  CutOrder="51" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="1" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 22.63 68</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0"  CutOrder="52" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="2" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 34.63 68</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0"  CutOrder="53" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="3" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 46.63 68</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0"  CutOrder="54" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="4" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 58.63 68</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0"  CutOrder="55" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="5" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="0">
+<XForm>1 0 0 1 70.63 68</XForm>
+</Shape>
+    <Notes ShowOnLoad="1" Notes="Multi-Générateur &#10;&#10;par Kpc29Laser (Lionel.K)&#10;&#10;https://www.facebook.com/groups/laseraddicts&#10;&#10;Tutoriel lightburn par Patrick Algrain&#10;&#10;https://www.youtube.com/@patrickalgrain"/>
+</LightBurnProject>
