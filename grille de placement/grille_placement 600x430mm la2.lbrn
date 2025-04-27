@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="1.0.0" FormatVersion="0" MaterialHeight="0" MirrorX="False" MirrorY="false">
+<UIPrefs>
+<Optimize_ByLayer Value="0"/>
+<Optimize_ByGroup Value="2"/>
+<Optimize_ByPriority Value="1"/>
+<Optimize_WhichDirection Value="2"/>
+<Optimize_InnerToOuter Value="1"/>
+<Optimize_ByDirection Value="0"/>
+<Optimize_ReduceTravel Value="1"/>
+<Optimize_HideBacklash Value="0"/>
+<Optimize_ReduceDirChanges Value="1"/>
+<Optimize_ChooseCorners Value="1"/>
+<Optimize_AllowReverse Value="1"/>
+<Optimize_RemoveOverlaps Value="0"/>
+<Optimize_OptimalEntryPoint Value="0"/>
+</UIPrefs>
+<Shape Type="Rect" CutIndex="30" W="600" H="430" Cr="0">
+<XForm>1 0 0 1 300.83 215</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="1" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="10" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 10</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="2" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="20" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 20</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="3" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="30" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 30</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="4" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="40" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 40</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="5" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="50" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 50</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="6" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="60" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 60</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="7" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="70" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 70</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="8" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="80" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 80</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="9" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="90" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 90</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="10" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="100" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 100</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="11" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="110" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 110</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="12" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="120" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 120</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="13" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="130" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 130</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="14" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="140" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 140</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="15" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="150" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 150</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="16" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="160" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 160</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="17" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="170" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 170</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="18" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="180" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 180</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="19" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="190" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 190</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="20" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="200" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 200</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="21" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="210" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 210</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="22" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="220" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 220</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="23" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="230" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 230</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="24" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="240" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 240</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="25" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="250" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 250</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="26" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="260" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 260</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="27" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="270" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 270</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="28" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="280" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 280</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="29" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="290" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 290</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="30" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="300" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 300</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="31" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="310" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 310</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="32" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="320" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 320</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="33" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="330" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 330</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="34" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="340" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 340</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="35" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="350" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 350</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="36" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="360" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 360</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="37" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="370" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 370</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="38" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="380" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 380</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="39" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="390" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 390</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="40" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="400" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 400</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="41" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="410" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 410</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="42" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="420" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 5 420</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="43" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="10" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 10 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="44" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="20" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 20 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="45" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="30" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 30 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="46" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="40" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 40 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="47" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="50" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 50 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="48" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="60" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 60 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="49" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="70" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 70 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="50" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="80" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 80 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="51" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="90" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 90 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="52" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="100" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 100 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="53" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="110" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 110 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="54" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="120" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 120 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="55" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="130" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 130 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="56" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="140" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 140 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="57" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="150" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 150 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="58" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="160" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 160 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="59" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="170" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 170 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="60" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="180" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 180 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="61" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="190" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 190 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="62" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="200" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 200 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="63" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="210" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 210 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="64" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="220" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 220 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="65" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="230" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 230 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="66" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="240" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 240 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="67" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="250" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 250 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="68" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="260" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 260 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="69" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="270" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 270 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="70" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="280" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 280 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="71" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="290" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 290 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="72" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="300" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 300 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="73" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="310" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 310 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="74" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="320" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 320 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="75" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="330" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 330 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="76" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="340" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 340 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="77" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="350" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 350 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="78" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="360" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 360 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="79" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="370" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 370 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="80" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="380" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 380 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="81" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="390" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 390 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="82" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="400" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 400 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="83" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="410" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 410 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="84" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="420" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 420 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="85" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="430" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 430 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="86" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="440" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 440 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="87" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="450" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 450 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="88" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="460" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 460 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="89" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="470" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 470 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="90" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="480" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 480 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="91" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="490" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 490 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="92" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="500" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 500 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="93" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="510" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 510 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="94" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="520" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 520 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="95" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="530" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 530 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="96" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="540" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 540 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="97" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="550" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 550 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="98" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="560" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 560 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="99" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="570" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 570 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="100" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="580" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 580 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="101" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="590" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 590 425</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="102" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="420" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 420</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="103" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="410" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 410</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="104" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="400" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 400</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="105" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="390" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 390</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="106" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="380" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 380</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="107" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="370" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 370</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="108" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="360" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 360</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="109" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="350" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 350</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="110" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="340" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 340</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="111" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="330" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 330</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="112" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="320" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 320</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="113" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="310" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 310</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="114" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="300" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 300</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="115" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="290" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 290</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="116" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="280" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 280</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="117" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="270" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 270</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="118" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="260" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 260</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="119" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="250" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 250</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="120" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="240" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 240</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="121" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="230" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 230</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="122" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="220" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 220</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="123" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="210" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 210</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="124" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="200" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 200</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="125" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="190" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 190</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="126" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="180" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 180</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="127" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="170" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 170</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="128" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="160" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 160</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="129" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="150" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 150</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="130" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="140" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 140</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="131" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="130" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 130</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="132" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="120" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 120</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="133" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="110" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 110</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="134" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="100" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 100</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="135" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="90" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 90</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="136" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="80" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 80</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="137" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="70" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 70</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="138" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="60" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 60</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="139" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="50" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 50</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="140" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="40" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 40</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="141" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="30" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 30</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="142" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="20" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 20</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="143" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="10" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 595 10</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="144" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="590" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 590 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="145" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="580" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 580 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="146" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="570" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 570 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="147" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="560" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 560 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="148" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="550" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 550 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="149" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="540" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 540 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="150" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="530" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 530 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="151" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="520" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 520 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="152" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="510" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 510 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="153" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="500" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 500 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="154" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="490" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 490 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="155" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="480" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 480 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="156" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="470" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 470 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="157" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="460" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 460 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="158" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="450" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 450 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="159" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="440" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 440 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="160" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="430" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 430 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="161" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="420" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 420 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="162" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="410" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 410 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="163" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="400" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 400 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="164" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="390" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 390 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="165" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="380" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 380 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="166" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="370" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 370 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="167" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="360" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 360 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="168" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="350" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 350 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="169" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="340" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 340 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="170" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="330" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 330 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="171" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="320" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 320 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="172" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="310" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 310 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="173" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="300" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 300 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="174" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="290" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 290 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="175" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="280" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 280 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="176" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="270" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 270 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="177" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="260" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 260 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="178" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="250" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 250 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="179" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="240" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 240 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="180" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="230" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 230 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="181" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="220" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 220 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="182" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="210" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 210 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="183" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="200" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 200 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="184" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="190" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 190 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="185" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="180" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 180 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="186" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="170" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 170 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="187" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="160" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 160 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="188" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="150" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 150 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="189" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="140" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 140 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="190" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="130" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 130 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="191" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="120" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 120 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="192" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="110" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 110 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="193" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="100" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 100 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="194" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="90" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 90 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="195" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="80" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 80 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="196" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="70" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 70 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="197" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="60" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 60 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="198" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="50" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 50 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="199" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="40" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 40 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="200" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="30" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 30 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="201" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="20" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 20 5</XForm>
+</Shape>
+<Shape Type="Text" CutIndex="0" CutOrder="202" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="10" H="5" LS="0" LnS="0" Ah="1" Av="1" Weld="1" HasBackupPath="1">
+<XForm>0.7 0.7 -0.7 0.7 10 5</XForm>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="0">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="10" vy="420"/>
+<V vx="10" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="1">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="20" vy="420"/>
+<V vx="20" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="2">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="30" vy="420"/>
+<V vx="30" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="3">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="40" vy="420"/>
+<V vx="40" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="4">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="50" vy="420"/>
+<V vx="50" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="5">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="60" vy="420"/>
+<V vx="60" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="6">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="70" vy="420"/>
+<V vx="70" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="7">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="80" vy="420"/>
+<V vx="80" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="8">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="90" vy="420"/>
+<V vx="90" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="9">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="100" vy="420"/>
+<V vx="100" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="10">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="110" vy="420"/>
+<V vx="110" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="11">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="120" vy="420"/>
+<V vx="120" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="12">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="130" vy="420"/>
+<V vx="130" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="13">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="140" vy="420"/>
+<V vx="140" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="14">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="150" vy="420"/>
+<V vx="150" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="15">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="160" vy="420"/>
+<V vx="160" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="16">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="170" vy="420"/>
+<V vx="170" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="17">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="180" vy="420"/>
+<V vx="180" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="18">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="190" vy="420"/>
+<V vx="190" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="19">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="200" vy="420"/>
+<V vx="200" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="20">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="210" vy="420"/>
+<V vx="210" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="21">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="220" vy="420"/>
+<V vx="220" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="22">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="230" vy="420"/>
+<V vx="230" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="23">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="240" vy="420"/>
+<V vx="240" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="24">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="250" vy="420"/>
+<V vx="250" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="25">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="260" vy="420"/>
+<V vx="260" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="26">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="270" vy="420"/>
+<V vx="270" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="27">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="280" vy="420"/>
+<V vx="280" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="28">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="290" vy="420"/>
+<V vx="290" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="29">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="300" vy="420"/>
+<V vx="300" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="30">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="310" vy="420"/>
+<V vx="310" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="31">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="320" vy="420"/>
+<V vx="320" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="32">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="330" vy="420"/>
+<V vx="330" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="33">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="340" vy="420"/>
+<V vx="340" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="34">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="350" vy="420"/>
+<V vx="350" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="35">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="360" vy="420"/>
+<V vx="360" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="36">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="370" vy="420"/>
+<V vx="370" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="37">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="380" vy="420"/>
+<V vx="380" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="38">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="390" vy="420"/>
+<V vx="390" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="39">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="400" vy="420"/>
+<V vx="400" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="40">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="410" vy="420"/>
+<V vx="410" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="41">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="420" vy="420"/>
+<V vx="420" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="42">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="430" vy="420"/>
+<V vx="430" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="43">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="440" vy="420"/>
+<V vx="440" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="44">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="450" vy="420"/>
+<V vx="450" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="45">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="460" vy="420"/>
+<V vx="460" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="46">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="470" vy="420"/>
+<V vx="470" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="47">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="480" vy="420"/>
+<V vx="480" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="48">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="490" vy="420"/>
+<V vx="490" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="49">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="500" vy="420"/>
+<V vx="500" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="50">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="510" vy="420"/>
+<V vx="510" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="51">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="520" vy="420"/>
+<V vx="520" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="52">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="530" vy="420"/>
+<V vx="530" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="53">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="540" vy="420"/>
+<V vx="540" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="54">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="550" vy="420"/>
+<V vx="550" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="55">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="560" vy="420"/>
+<V vx="560" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="56">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="570" vy="420"/>
+<V vx="570" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="57">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="580" vy="420"/>
+<V vx="580" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="2" CutOrder="58">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="420"/>
+<V vx="590" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="0">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="10"/>
+<V vx="10" vy="10"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="1">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="20"/>
+<V vx="10" vy="20"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="2">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="30"/>
+<V vx="10" vy="30"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="3">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="40"/>
+<V vx="10" vy="40"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="4">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="50"/>
+<V vx="10" vy="50"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="5">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="60"/>
+<V vx="10" vy="60"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="6">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="70"/>
+<V vx="10" vy="70"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="7">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="80"/>
+<V vx="10" vy="80"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="8">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="90"/>
+<V vx="10" vy="90"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="9">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="100"/>
+<V vx="10" vy="100"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="10">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="110"/>
+<V vx="10" vy="110"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="11">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="120"/>
+<V vx="10" vy="120"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="12">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="130"/>
+<V vx="10" vy="130"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="13">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="140"/>
+<V vx="10" vy="140"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="14">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="150"/>
+<V vx="10" vy="150"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="15">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="160"/>
+<V vx="10" vy="160"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="16">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="170"/>
+<V vx="10" vy="170"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="17">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="180"/>
+<V vx="10" vy="180"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="18">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="190"/>
+<V vx="10" vy="190"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="19">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="200"/>
+<V vx="10" vy="200"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="20">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="210"/>
+<V vx="10" vy="210"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="21">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="220"/>
+<V vx="10" vy="220"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="22">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="230"/>
+<V vx="10" vy="230"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="23">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="240"/>
+<V vx="10" vy="240"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="24">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="250"/>
+<V vx="10" vy="250"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="25">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="260"/>
+<V vx="10" vy="260"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="26">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="270"/>
+<V vx="10" vy="270"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="27">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="280"/>
+<V vx="10" vy="280"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="28">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="290"/>
+<V vx="10" vy="290"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="29">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="300"/>
+<V vx="10" vy="300"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="30">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="310"/>
+<V vx="10" vy="310"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="31">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="320"/>
+<V vx="10" vy="320"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="32">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="330"/>
+<V vx="10" vy="330"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="33">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="340"/>
+<V vx="10" vy="340"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="34">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="350"/>
+<V vx="10" vy="350"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="35">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="360"/>
+<V vx="10" vy="360"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="36">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="370"/>
+<V vx="10" vy="370"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="37">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="380"/>
+<V vx="10" vy="380"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="38">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="390"/>
+<V vx="10" vy="390"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="39">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="400"/>
+<V vx="10" vy="400"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="40">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="410"/>
+<V vx="10" vy="410"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<Shape Type="Path" CutIndex="3" CutOrder="41">
+<XForm>1 0 0 1 0 0</XForm>
+<V vx="590" vy="420"/>
+<V vx="10" vy="420"/>
+<P T="L" p0="0" p1="1"/>
+</Shape>
+<CutSetting type="Tool">
+<index Value="30"/>
+<name Value="T1"/>
+<priority Value="1"/>
+</CutSetting>
+<CutSetting type="Scan">
+<index Value="0"/>
+<name Value="Ecritures cercles"/>
+<maxPower Value="50"/>
+<maxPower2 Value="20"/>
+<speed Value="25.000"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="2.5"/>
+<interval Value="0.1"/>
+<dpi Value="254"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+<CutSetting type="Scan">
+<index Value="1"/>
+<name Value="Ecritures grille"/>
+<maxPower Value="50"/>
+<maxPower2 Value="20"/>
+<speed Value="25.000"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="2.5"/>
+<interval Value="0.1"/>
+<dpi Value="254"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+<CutSetting type="Cut">
+<index Value="2"/>
+<name Value="Lignes verticale"/>
+<maxPower Value="80"/>
+<maxPower2 Value="20"/>
+<speed Value="83.333"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="0"/>
+<interval Value="0.1"/>
+<dpi Value="254"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+<CutSetting type="Cut">
+<index Value="3"/>
+<name Value="Lignes horizontale"/>
+<maxPower Value="80"/>
+<maxPower2 Value="20"/>
+<speed Value="83.333"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="0"/>
+<interval Value="0.1"/>
+<dpi Value="254"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+<CutSetting type="Cut">
+<index Value="4"/>
+<name Value="Cercles"/>
+<maxPower Value="80"/>
+<maxPower2 Value="20"/>
+<speed Value="83.333"/>
+<perforate Value="1"/>
+<perfLen Value="5"/>
+<perfSkip Value="2.5"/>
+<scanOpt Value="byGroup"/>
+<overscanPercent Value="0"/>
+<interval Value="0.07987421383647798"/>
+<dpi Value="318"/>
+<priority Value="2"/>
+<tabSize Value="0.1"/>
+<tabCount Value="1"/>
+<tabCountMax Value="1"/>
+<tabSpacing Value="1.1"/>
+</CutSetting>
+    <Notes ShowOnLoad="1" Notes="Multi-Générateur &#10;&#10;par Kpc29Laser (Lionel.K)&#10;&#10;https://www.facebook.com/groups/laseraddicts&#10;&#10;Tutoriel lightburn par Patrick Algrain&#10;&#10;https://www.youtube.com/@patrickalgrain"/>
+</LightBurnProject>
