@@ -66,7 +66,7 @@ $135=300.000        // ✅ Pour U, V, W → OK si pas utilisés
 [ESP131]8080       // ✅ Port réseau par défaut → OK
 
 //wifi 2.4ghz
-[ESP100]stunt_life_3    // ✅ Nom du réseau WiFi (SSID)
-[ESP101]LilY4214        // ⚠️ Mot de passe en clair → évite de le publier publiquement
+[ESP100]coco    // ✅ Nom du réseau WiFi (SSID)
+[ESP101]pass        // ⚠️ Mot de passe en clair → évite de le publier publiquement
 
 /*---modify2025-03-- BY-QNEXO coco-*/
