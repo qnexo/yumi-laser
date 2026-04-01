@@ -32,7 +32,7 @@ On parle ici de modifications concrètes testées IRL, pas de théories de forum
 ---
 
 ## 📚 Sommaire
-- [🛠️ Installation et Montage](#️[installation-et-montage]https://github.com/qnexo/yumi-laser/blob/main/docs/yumi-laser-l-a4-a3-montage.pdf)
+- [🛠️ Installation et Montage](https://github.com/qnexo/yumi-laser/blob/main/docs/yumi-laser-l-a4-a3-montage.pdf)
 - [🚀 Firmware](#firmware)
 - [📶 Configuration WiFi](#configuration-wifi)
 - [📐 Logiciel LightBurn](#logiciel-lightburn)
